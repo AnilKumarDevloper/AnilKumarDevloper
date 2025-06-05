@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @AnilKumarDevloper
-- 👀 I’m interested in ... Laravel
-- 🌱 I’m currently learning ... React 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... send me email on "kum09a@gmail.com"
-- 😄 Pronouns: ...
+- 👋 Hi, I’m Anil Kumar
+- 💼 I’m a developer working with Laravel, JavaScript, JQuery, React, and MySQL
+- 🌱 I’m currently learning NodeJs 
+- 💞️ I’m to collaborate on open-source Laravel or JS projects
+- 📫 How to reach me -> send me email on "kum09a@gmail.com"
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---

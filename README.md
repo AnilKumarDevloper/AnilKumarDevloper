@@ -2,7 +2,7 @@
 - 💼 I’m a developer working with Laravel, JavaScript, JQuery, React, and MySQL
 - 🌱 I’m currently learning NodeJs 
 - 💞️ I’m to collaborate on open-source Laravel or JS projects
-- 📫 How to reach me -> send me email on "kum09a@gmail.com"
+- 📫 How to reach me -> You can call me on +91-992 826 5512
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
